@@ -127,6 +127,10 @@ input.btn {
   cursor: pointer;
 }
 
+input.btn:hover, input.btn:hover {
+  background: var(--tomato);
+}
+
 .emailWarn {
   display: flex;
   justify-content: space-between;
